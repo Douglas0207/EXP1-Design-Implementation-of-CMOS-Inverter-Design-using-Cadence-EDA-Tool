@@ -71,6 +71,7 @@ ii.    ”Whats New…”
 9.	Library Name and Cell Name must be same which you have used for schematic. Press OK
 10.	Check for the position of pin side.Prss OK
 11.	Edit for the shape by Create-Shape-Choose required options to edit.
+![vlsi1](https://github.com/user-attachments/assets/4974f93d-5eff-4d80-b9a5-4b0660b85314)
 
 
 
