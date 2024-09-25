@@ -87,7 +87,8 @@ ii.    ”Whats New…”
 6.	Type: Schematic press OK
 7.	Follow the step 3(ii) d to make the required connections
 
-   
+ ![WhatsApp Image 2024-09-25 at 3 58 04 PM](https://github.com/user-attachments/assets/9bfd6032-493d-404d-85c9-efb704d4f105)
+  
 
 
 
